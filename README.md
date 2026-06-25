@@ -208,7 +208,7 @@ public class Prabakaran {
    └── DB Design          → Normalization, Indexing, Sharding
 
 🧮 DSA & Problem Solving
-   └── LeetCode           → Arrays, Trees, Graphs, DP
+   └── LeetCode           → Arrays, String, Algorithms
 ```
 
 ---
