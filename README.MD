@@ -12,7 +12,7 @@
 
 I'm a final-year **B.E. Computer Science & Business Systems** student at Jeppiaar Institute of Technology, Chennai (graduating 2027), focused on becoming a **Data Analyst**. I clean messy data, query it with SQL, find the story with Python and statistics, and present it through clear Power BI dashboards.
 
-I've completed data analytics internships at **Brakes India** and **Infosys Springboard**, and I currently work as a **Backend Developer Intern at Wallify**, a wallpaper SaaS mobile app, which gives me a solid understanding of how data is produced and stored behind real products.
+I've completed data analytics internships at **Brakes India** and **Infosys Springboard**. I'm currently upskilling in cloud, Git & GitHub, and GenAI for analytics to strengthen my career profile, and I'm actively looking for Data Analyst roles and internships.
 
 ```python
 prabakaran = {
@@ -59,15 +59,6 @@ prabakaran = {
 
 ## 💼 Experience
 
-<details open>
-<summary><b>🏢 Wallify — Backend Developer Intern &nbsp;|&nbsp; Current</b></summary>
-
-<br/>
-
-- Building and maintaining backend services for **Wallify**, a wallpaper SaaS mobile app.
-- Work with databases, APIs, and application data, strengthening my understanding of how analytics-ready data is generated and structured.
-
-</details>
 
 <details open>
 <summary><b>🏢 Brakes India Private Limited — Data Analytics Intern &nbsp;|&nbsp; Aug – Sep 2026</b></summary>
